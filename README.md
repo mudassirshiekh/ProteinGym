@@ -1,4 +1,5 @@
 # ProteinGym
+# By Mudassir Alam
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13936340.svg)](https://doi.org/10.5281/zenodo.13936340)
 [![PyPI version](https://badge.fury.io/py/proteingym.svg)](https://badge.fury.io/py/proteingym)
